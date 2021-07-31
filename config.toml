@@ -70,7 +70,7 @@ disableKinds = "RSS"
 [menu]
   [[menu.main]]
     name = "Tech Blogs"
-    url = "blogs/"
+    url = "techblogs/"
     weight = 10
 
   [[menu.main]]
@@ -78,7 +78,7 @@ disableKinds = "RSS"
     url = "poems/"
     weight = 20
 
-  [[menu.main]]
-    name = "Resume"
-    url = "https://drive.google.com/file/d/1Uf88AHLdjGAestElzgzVVuMCY-d8JeTQ/view?usp=sharing"
-    weight = 30
+#  [[menu.main]]
+#    name = "Resume"
+#    url = "https://drive.google.com/file/d/1Uf88AHLdjGAestElzgzVVuMCY-d8JeTQ/view?usp=sharing"
+#    weight = 30
