@@ -4,7 +4,7 @@ date: 2019-10-24
 draft: false
 ---
 
-{{<figure src="https://picsum.photos/1024/768/?random">}}
+{{<figure src="/img/poems/growth.jpg">}}
 
     Sitting on the window's edge,
     comfortably propped up on my favourite chair,
